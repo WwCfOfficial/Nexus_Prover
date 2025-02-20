@@ -56,6 +56,6 @@ sudo curl https://cli.nexus.xyz/ | sh
 
 ---
 - Done !! Feel free to ask queries in telegram channel
-- Telegram - https://t.me/colonyairdrops
-- Youtube - https://www.youtube.com/@ColonyAirdrops
-- Twitter - https://x.com/colony_airdrops
+- Telegram - https://t.me/WwCfAirdrops
+- Youtube - https://youtube.com/@WwCfOfficial 
+- Twitter - https://x.com/WwCfOfficial
