@@ -1,4 +1,4 @@
-# Nexus_Prover by @ColonyAirdrops
+# Nexus_Prover by @WwCfOfficial
 
 - Video: [Youtube](https://youtu.be/j2kyQtwtmjw)
 
@@ -66,5 +66,5 @@ You'll get a `prover-id` file in `/root/.nexus/` representing your unique contri
 
 ---
 - Done !! Feel free to ask queries in telegram channel
-- Telegram - https://t.me/colonyairdrops
-- Youtube - https://www.youtube.com/@ColonyAirdrops
+- Telegram - https://t.me/WwCfAirdrops
+- Youtube - https://youtube.com/@WwCfOfficial
