@@ -1,6 +1,6 @@
 # Nexus_Prover by @WwCfOfficial
 
-- Video: [Youtube](https://youtu.be/j2kyQtwtmjw)
+- Video: [Youtube](https://youtu.be/uT2Ph1IZ8Ro?si=icNEz0c07_5nAewS)
 
 ## Method 1. Web Browser
 Contribute to Nexus zkVM Prover : https://app.nexus.xyz/
@@ -68,3 +68,4 @@ You'll get a `prover-id` file in `/root/.nexus/` representing your unique contri
 - Done !! Feel free to ask queries in telegram channel
 - Telegram - https://t.me/WwCfAirdrops
 - Youtube - https://youtube.com/@WwCfOfficial
+- Twitter - https://x.com/WwCfOfficial 

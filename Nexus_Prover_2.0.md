@@ -59,4 +59,4 @@ sudo curl https://cli.nexus.xyz/ | sh
 - Telegram - https://t.me/WwCfAirdrops
 - Youtube - https://youtube.com/@WwCfOfficial 
 - Twitter - https://x.com/WwCfOfficial
-- Twitter - https://x.com/WwCfOfficial 
+
